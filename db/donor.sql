@@ -1,0 +1,1 @@
+create table donor (donorId int(10) primary key, name varchar(100), fatherName varchar(100), motherName varchar(100), DOB varchar(50), MobileNo varchar(10), gender varchar(10), email varchar(100), bloodGroup varchar(10), city varchar(100), address varchar(500));

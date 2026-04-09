@@ -17,7 +17,7 @@ A desktop application built using **Java Swing** for the graphical user interfac
 ## Setup & Usage
 1. Create the MySQL database using the provided SQL scripts.
 2. Configure the database connection in the Java application.
-3. Run the `Main.java` file to launch the application.
+3. Run the `home.java` file to launch the application.
 
 ## Purpose
 This project demonstrates a practical **desktop-based management system**, focusing on CRUD operations, database integration, and GUI development in Java.
